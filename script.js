@@ -10,7 +10,7 @@ while (arr.length > 1) {
     arr.push(temp);
     arr.sort((a, b) => a - b);
 }
-	
+	 return cost
 }
 
 module.exports=mincost;
